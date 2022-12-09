@@ -18,12 +18,12 @@ While the first one can give you basic info...
 ### How can I use it? 
 #### - Go to https://github.com/SanGreel/telegram-data-collection and follow the given instructions to get the datasets you want to analyze. 
 #### - Once you're done, enter informations in the following fields
-###### File one:
+###### File 'simple_an':
 ![image](https://user-images.githubusercontent.com/114915802/206705108-038995a6-0bab-47af-a044-aab5b21dcc60.png)
 
 link that will help you find Telegram user ID: https://www.alphr.com/tlegra-find-user-id/
 
-###### File two:
+###### File 'deeper_an:
 ![image](https://user-images.githubusercontent.com/114915802/206705207-a3de0db3-2dd2-4277-a0e5-1920c92fa115.png)
 #### - Run all the cells in documents 
 ![image](https://user-images.githubusercontent.com/114915802/206707778-67000052-a050-45ef-8eab-d6a50b53255f.png)
