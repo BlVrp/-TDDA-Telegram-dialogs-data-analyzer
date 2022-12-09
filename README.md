@@ -8,8 +8,11 @@ Those Jupyter notebooks can help you analyze data extracted with this tool:
 https://github.com/SanGreel/telegram-data-collection
 
 While the first one can give you basic info...
+
 ![image](https://user-images.githubusercontent.com/114915802/206699625-97db1ffa-c78d-4f00-9bbe-008ee2d08ce2.png)
+
 ...the second one can give you much more detailed analysis of your messages:
+
 ![image](https://user-images.githubusercontent.com/114915802/206699939-99f901dc-4953-45c5-bec7-b0c73f72ead3.png)
 
 ### How can I use it? 
