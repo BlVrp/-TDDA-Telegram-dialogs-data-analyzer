@@ -25,6 +25,7 @@ link that will help you find Telegram user ID: https://www.alphr.com/tlegra-find
 
 ###### File two:
 ![image](https://user-images.githubusercontent.com/114915802/206705207-a3de0db3-2dd2-4277-a0e5-1920c92fa115.png)
-#### - Run all the cells in documents ![image](https://user-images.githubusercontent.com/114915802/206707778-67000052-a050-45ef-8eab-d6a50b53255f.png)
+#### - Run all the cells in documents 
+![image](https://user-images.githubusercontent.com/114915802/206707778-67000052-a050-45ef-8eab-d6a50b53255f.png)
 #### - Enjoy the ride
     
